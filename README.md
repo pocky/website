@@ -1,37 +1,71 @@
 ---
 currentMenu: home
 ---
+# Couscous Dark template
 
-DDD, BDD, Kanban, DevOps et PHP
-===
+![](screenshot.png)
 
-A propos
+## Usage
+
+To use the template, set it up in your `couscous.yml` configuration file:
+
+```yaml
+template:
+    url: https://github.com/CouscousPHP/Template-Dark
+```
+
+## Configuration
+
+Here are all the variables you can set in your `couscous.yml`:
+
+```yaml
+# Base URL of the published website
+baseUrl: http://username.github.io/project
+
+# Used to link to the GitHub project
+github:
+    user: myself
+    repo: my-project
+
+title: My project
+subTitle: This is a great project.
+
+# The left menu bar
+menu:
+    sections:
+        main:
+            name: Main documentation
+            items:
+                home:
+                    text: Home page
+                    # You can use relative urls
+                    relativeUrl: doc/faq.html
+                foo:
+                    text: Another link
+                    # Or absolute urls
+                    absoluteUrl: https://example.com
+        other:
+            name: Other topics
+            items:
+```
+
+Note that the menu items can also contain HTML:
+
+```yaml
+home:
+    text: "<i class=\"fa fa-github\"></i> Home page"
+    relativeUrl: doc/faq.html
+```
+
+## Menu
+
+To set the current menu item (i.e. highlighted menu item), set the `currentMenu`
+key in the Markdown files:
+
+```markdown
+---
+currentMenu: home
 ---
 
-Travaillant dans le web depuis plus de 10 ans, j'ai tour à tour été webmaster, 
-intégrateur, chef de projet et développeur et ai travaillé pour beaucoup de grands-comptes et agences.
-
-Spécialisé depuis 4 ans dans la sémantique, je me suis orienté vers l'agilité et
- le Domain Driven Design à travers Symfony et/ou des composants PHP dédiés.
-
-Mon expérience, mes compétences et mon exigence vis-à-vis des problématiques 
-métiers me permettent de vous accompagner à tous les stades de votre projet avec
- les spécialisations suivantes :
-
-- Amorçage, refonte de projet,
-- formation, création, aide, conseil, agilité et réorganisation d’équipes,
-- DevOps (Ansible) et industrialisation,
-- développement/TMA Symfony,
-- BDD (Behat/PhpSpec) et DDD.
-
-N'hésitez pas à me <a href="mailto:alexandre@lablackroom.com?subject=Prise de contact alexandrebalmes.fr">contacter</a>.
-Et si vous souhaitez consulter un peu de code, rendez-vous sur mon profil [Github](https://github.com/black-project)
-
-Speakerdeck
----
-
-Vous trouverez ci-dessous des liens vers mes différentes présentations lors d'interventions techniques :
-
-- [Le Challenge Sémantique](https://speakerdeck.com/pocky/le-challenge-semantique)
-- [ProTips Symfony](https://speakerdeck.com/pocky/protips-symfony-mais-pas-que)
-- [Yo for dummies](https://speakerdeck.com/pocky/yo-for-dummies)
+# Welcome
+```
