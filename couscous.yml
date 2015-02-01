@@ -1,0 +1,16 @@
+baseUrl: http://alexandrebalmes.fr
+
+title: Alexandre BALMES
+subTitle: Consultant indépendant
+
+template:
+    url: https://github.com/CouscousPHP/Template-Dark
+
+menu:
+    sections:
+        main:
+            name: Menu
+            items:
+                home:
+                    text: Accueil
+                    absoluteUrl: http://alexandrebalmes.fr
