@@ -39,17 +39,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CouscousPHP/Couscous.git",
-                "reference": "1fa97d35020b52934a128116c22c1084e1a78195"
+                "reference": "725d93c256501abb53dae1104c88c1332cf3fa0a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CouscousPHP/Couscous/zipball/1fa97d35020b52934a128116c22c1084e1a78195",
-                "reference": "1fa97d35020b52934a128116c22c1084e1a78195",
+                "url": "https://api.github.com/repos/CouscousPHP/Couscous/zipball/725d93c256501abb53dae1104c88c1332cf3fa0a",
+                "reference": "725d93c256501abb53dae1104c88c1332cf3fa0a",
                 "shasum": ""
             },
             "require": {
-                "erusev/parsedown": "~1.4",
-                "erusev/parsedown-extra": "~0.5.1",
+                "erusev/parsedown-extra": "~0.7",
                 "mnapoli/front-yaml": "~1.4",
                 "mnapoli/php-di-5": "1.0.0",
                 "phine/phar": "~1.0",
@@ -78,7 +77,7 @@
             "license": [
                 "MIT"
             ],
-            "time": "2015-01-23 08:50:55"
+            "time": "2015-02-14 10:18:15"
         },
         {
             "name": "doctrine/annotations",
@@ -313,16 +312,16 @@
         },
         {
             "name": "erusev/parsedown-extra",
-            "version": "0.5.1",
+            "version": "0.7.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/erusev/parsedown-extra.git",
-                "reference": "6a4eb9507b6a5827cc8274b00f2784b9acbd29df"
+                "reference": "11a44e076d02ffcc4021713398a60cd73f78b6f5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/erusev/parsedown-extra/zipball/6a4eb9507b6a5827cc8274b00f2784b9acbd29df",
-                "reference": "6a4eb9507b6a5827cc8274b00f2784b9acbd29df",
+                "url": "https://api.github.com/repos/erusev/parsedown-extra/zipball/11a44e076d02ffcc4021713398a60cd73f78b6f5",
+                "reference": "11a44e076d02ffcc4021713398a60cd73f78b6f5",
                 "shasum": ""
             },
             "require": {
@@ -353,7 +352,7 @@
                 "parsedown",
                 "parser"
             ],
-            "time": "2015-01-13 00:04:28"
+            "time": "2015-01-25 14:52:34"
         },
         {
             "name": "mnapoli/front-yaml",
@@ -476,16 +475,16 @@
         },
         {
             "name": "myclabs/php-enum",
-            "version": "1.3.0",
+            "version": "1.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/myclabs/php-enum.git",
-                "reference": "c0bcd731d26d53d3db280cca0af33b3cd99fbafe"
+                "reference": "5fa55b5135a68fa077d480b1cf916e97b9b8151c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/myclabs/php-enum/zipball/c0bcd731d26d53d3db280cca0af33b3cd99fbafe",
-                "reference": "c0bcd731d26d53d3db280cca0af33b3cd99fbafe",
+                "url": "https://api.github.com/repos/myclabs/php-enum/zipball/5fa55b5135a68fa077d480b1cf916e97b9b8151c",
+                "reference": "5fa55b5135a68fa077d480b1cf916e97b9b8151c",
                 "shasum": ""
             },
             "require": {
@@ -516,7 +515,7 @@
             "keywords": [
                 "enum"
             ],
-            "time": "2015-01-30 22:06:24"
+            "time": "2015-02-03 20:43:56"
         },
         {
             "name": "phine/exception",
@@ -770,17 +769,17 @@
         },
         {
             "name": "symfony/console",
-            "version": "v2.6.3",
+            "version": "v2.6.4",
             "target-dir": "Symfony/Component/Console",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Console.git",
-                "reference": "6ac6491ff60c0e5a941db3ccdc75a07adbb61476"
+                "reference": "e44154bfe3e41e8267d7a3794cd9da9a51cfac34"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Console/zipball/6ac6491ff60c0e5a941db3ccdc75a07adbb61476",
-                "reference": "6ac6491ff60c0e5a941db3ccdc75a07adbb61476",
+                "url": "https://api.github.com/repos/symfony/Console/zipball/e44154bfe3e41e8267d7a3794cd9da9a51cfac34",
+                "reference": "e44154bfe3e41e8267d7a3794cd9da9a51cfac34",
                 "shasum": ""
             },
             "require": {
@@ -823,11 +822,11 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "http://symfony.com",
-            "time": "2015-01-06 17:50:02"
+            "time": "2015-01-25 04:39:26"
         },
         {
             "name": "symfony/filesystem",
-            "version": "v2.6.3",
+            "version": "v2.6.4",
             "target-dir": "Symfony/Component/Filesystem",
             "source": {
                 "type": "git",
@@ -874,7 +873,7 @@
         },
         {
             "name": "symfony/finder",
-            "version": "v2.6.3",
+            "version": "v2.6.4",
             "target-dir": "Symfony/Component/Finder",
             "source": {
                 "type": "git",
@@ -921,17 +920,17 @@
         },
         {
             "name": "symfony/process",
-            "version": "v2.6.3",
+            "version": "v2.6.4",
             "target-dir": "Symfony/Component/Process",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Process.git",
-                "reference": "319794f611bd8bdefbac72beb3f05e847f8ebc92"
+                "reference": "ecfc23e89d9967999fa5f60a1e9af7384396e9ae"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Process/zipball/319794f611bd8bdefbac72beb3f05e847f8ebc92",
-                "reference": "319794f611bd8bdefbac72beb3f05e847f8ebc92",
+                "url": "https://api.github.com/repos/symfony/Process/zipball/ecfc23e89d9967999fa5f60a1e9af7384396e9ae",
+                "reference": "ecfc23e89d9967999fa5f60a1e9af7384396e9ae",
                 "shasum": ""
             },
             "require": {
@@ -964,21 +963,21 @@
             ],
             "description": "Symfony Process Component",
             "homepage": "http://symfony.com",
-            "time": "2015-01-06 22:47:52"
+            "time": "2015-01-25 04:39:26"
         },
         {
             "name": "symfony/yaml",
-            "version": "v2.6.3",
+            "version": "v2.6.4",
             "target-dir": "Symfony/Component/Yaml",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Yaml.git",
-                "reference": "82462a90848a52c2533aa6b598b107d68076b018"
+                "reference": "60ed7751671113cf1ee7d7778e691642c2e9acd8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Yaml/zipball/82462a90848a52c2533aa6b598b107d68076b018",
-                "reference": "82462a90848a52c2533aa6b598b107d68076b018",
+                "url": "https://api.github.com/repos/symfony/Yaml/zipball/60ed7751671113cf1ee7d7778e691642c2e9acd8",
+                "reference": "60ed7751671113cf1ee7d7778e691642c2e9acd8",
                 "shasum": ""
             },
             "require": {
@@ -1011,7 +1010,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "http://symfony.com",
-            "time": "2015-01-03 15:33:07"
+            "time": "2015-01-25 04:39:26"
         },
         {
             "name": "twig/twig",
