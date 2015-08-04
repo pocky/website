@@ -1,0 +1,81 @@
+=================================================================
+https://keybase.io/pocky
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://alexandrebalmes.fr
+  * I am pocky (https://keybase.io/pocky) on keybase.
+  * I have a public key with fingerprint 00C9 A1DE E030 9838 7341  0901 3F70 833B 886B A122
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.5"
+        },
+        "key": {
+            "fingerprint": "00c9a1dee0309838734109013f70833b886ba122",
+            "host": "keybase.io",
+            "key_id": "3F70833B886BA122",
+            "uid": "2d9a0c4a041ba8dd5b4089e58d869619",
+            "username": "pocky"
+        },
+        "merkle_root": {
+            "ctime": 1423922412,
+            "hash": "085f8897185489b1b6c90011f01b33374ae8df7c0b0ccc0762211735c063f678637c6dc3f2b69e0fba2be3958ef81c7a2dfb0456f1d24faf5c9825f0b83a2230",
+            "seqno": 155635
+        },
+        "service": {
+            "hostname": "alexandrebalmes.fr",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1423923189,
+    "expire_in": 157680000,
+    "prev": "566664da84b167314f27d21524904318d6dd4d8a7b44312c09853f98ed70992a",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFVkntQFVUcxy8PKchAshmBcRQ2CWOQzu7Zx1loUmhSJiAcSORlzD7Owna5dy97
+r8gNkNEIMoVhnMoEzEHNsMHxETRqDwsRkouUpDAkTFmCCWgqNRFptks05flrz/4+
+v+/5fs/51T/qY/H2Wul4Lf4NazPh5bkuWl76fv29MkLUZDcRV0ZIRSq2u8wvu2DD
+RBxhxW5RcOJYVQu3azKOfcUZPsfEECVYd6qa3aBALBfLEBUxJm42K6q9AOsOXTW1
+CAAkXiBljAEEPIKIgzQJeEBChQMIQhEhVhRIijIkCzWn64FTiVnNfFU2/sLVs3yi
+wScm/MNvnC1QMi8AiRYATYoCkmVGpAHiMYNkxPIsyZugE+tzkRyaZHWbZm1Ytxbh
+fF3TZhNLLtWskzQFeYqiScqwIzgLzQCIURDiORIxNOJFUmQlHgCSVAApQgg5WsBI
+VjgJiECSJMCxFEWSHGQkwEKF5RALOYmVJahQIstjoIgCJWLIMwgriJQ4gZIVEdAM
+q5AyRSuCwkg8ohgFiAgKFAWB4d+Ji+2aYY5hWMhUmHu9RJWw6du8s7loQhEuFeyy
+jkWhyIadsYputDp0zaVJWpFRL3S5HHFmdJfbYfKbjmIxf04qX1TtsvFu/39Y0kAf
+uBZIIj6GwKUOVcf5qkkwHIuAscxzcImhybDGomUB0SLJcpCkFYqTKZKhaB7QRr/M
+yjItI4ETaWNLScZIMFDhEZY5wPOU8F9YaPgUCgxJp1pgF1wbdUxUbPNe7Gvx8rb4
+zfM2J9cS4L/g33Huyg66t7A6LuO3D0rTHrP33Q86PfPykXNSc5d1D7VmA0d9/nAq
+vySE+h2mhmbfulV/aZd1lWM47sLOoPrj11Yc36BsPx1ddqL/k5S9iaFP3u5pWHvT
+kzZtzbGlcfhi8lH1TN+doaHVz21JCg4Iidi8M+vngF99jpUzl2s7Laff3lcc5e+M
+bJf2Jx0MzZpcZJsaGD2XnOwTWdW+/cpavqRc3bVt3YWBHcPT3DNVd8fzJu0BOaML
+Xs+o/fbxzjbP0pHvZriWtP7atuWLsq6cEv2aowd7N9cMXBxld6xtOdE4lRNWVR24
+/2hk3vkvzi/e9+yNushrqZ/d7Qtcp2Wew8GthzNGEpaM2ct/yciqjr7RmFvc31M9
+0fdC/bH3PYPpmdptq3v3xDcz8xuGn5g63O27ya/Ss8f3hwjg/vFAuiUhxX+fw/PQ
+O9PJN8+CjDOHHFvDg3uSu8eXjP1FHJTo3ibuq6SFNZOdB464yC9fbbK2F9reOtNw
+MS8vt+fdZYFRbfNsdWGLnk7pqvu0b+v0I+lPJS5LX04LJ/uPXd1rje8YrGygTyjd
+Fd1Rz1c230H+HevDdHxrpKO9yVXaerxRCzxb96IM35wZCxwoXv9H/ZboU6t6aw7N
+r135kyd7Q05LWdWfia3vRUyEMlc/Lt99KeRD7/ihS1+vcY0XhGTe/6hgaURwVsX1
+VP/2FQEnc5ta1PjLNfhv
+=O4af
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pocky
+
+==================================================================
