@@ -7,6 +7,8 @@ template:
     url: https://github.com/CouscousPHP/Template-Dark
 
 exclude:
+    - vendor
+    - website
     - keybase.txt
     - CNAME
 
