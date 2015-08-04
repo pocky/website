@@ -6,6 +6,10 @@ subTitle: Consultant indépendant
 template:
     url: https://github.com/CouscousPHP/Template-Dark
 
+exclude:
+    - keybase.txt
+    - CNAME
+
 menu:
     sections:
         main:

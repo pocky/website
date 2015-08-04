@@ -18,7 +18,7 @@ Mots de passe
 
 Stocker vos mots de passe n'est pas nécessairement mon dada mais il arrive parfois
 que cela s'avère nécessaire. Fort heureusement, nous pouvons trouver une solution simple
-même si cela représete un petit coût pour vous.
+même si cela représente un petit coût pour vous.
 
 Cette solution passe par le logiciel [1password](https://agilebits.com/onepassword).
 Ce logiciel est compatible avec Windows/OSX/Android/iOS et permet tout simplement de
