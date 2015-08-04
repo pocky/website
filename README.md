@@ -33,5 +33,5 @@ Speakerdeck
 Vous trouverez ci-dessous des liens vers mes différentes présentations lors d'interventions techniques :
 
 - [Le Challenge Sémantique](https://speakerdeck.com/pocky/le-challenge-semantique)
-- [ProTips Symfony](https://speakerdeck.com/pocky/protips-symfony-mais-pas-que)
+- [ProTips Symfony](https://speakerdeck.com/pocky/protips-symfony-mais-pas-que) (attention, certaines recommandations sont dépréciées)
 - [Yo for dummies](https://speakerdeck.com/pocky/yo-for-dummies)

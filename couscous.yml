@@ -14,3 +14,6 @@ menu:
                 home:
                     text: Accueil
                     absoluteUrl: http://alexandrebalmes.fr
+                guide:
+                    text: Collaboration
+                    relativeUrl: guide-de-collaboration.html
